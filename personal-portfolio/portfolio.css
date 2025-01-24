@@ -111,7 +111,7 @@ section {
 }
 
 .zigzag {
-  background: url("zig.png");
+  background: url("../personal-portfolio/assets/zig.png");
   background-size: cover;
   background-position: center;
   position: sticky;
